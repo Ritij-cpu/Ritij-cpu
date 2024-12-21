@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Ritij Srivastava!  
-> *"I let data do the talking—because it's usually smarter than me."*  
+> *"I let data do the talking—mostly because it's usually smarter than me."*  
 
 I'm an AI and data science enthusiast passionate about solving real-world problems through intelligent systems. Whether it’s building machine learning pipelines, deploying deep learning models, or architecting data engineering workflows, I thrive on crafting impactful solutions. 🚀  
 
